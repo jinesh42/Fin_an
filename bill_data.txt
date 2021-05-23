@@ -3,17 +3,14 @@ March 2019:10728
 April 2019:10112.99
 May 2019:9923
 June 2019:10624
-July 2019:  food:3947+ transport:405+ex:6639=10991
+July 2019: food:3947+ transport:405+ex:6639=10991
 Aug 2019: food: 2663 transport:914+ ex: 4509=8086
 Sep 2019: 3033 food+ 1160 transport +5087 ex=9280
 Oct 2019: 2917 food+833 transport + 4980 ex= 8730
-nov 2019: 3020 food + 733 transport+4899 ex= 8652
-DEC 2019: 3341 food + 5664  ex+ 568 transport=9573 
-15000 madhav PG has taken
-Jan:
-1789 food + 845 bus + 4512 ex= 7146
-Feb: 
-4990 ex +3712 food + 856 transport = 9558 
+Nov 2019: 3020 food + 733 transport+4899 ex= 8652
+Dec 2019: 3341 food + 5664 ex+ 568 transport=9573 
+Jan 2020:1789 food + 845 transport + 4512 ex= 7146
+Feb 2020: 4990 ex +3712 food + 856 transport = 9558 
 March:
 Bal: 114459
 1march: account balance: 144740.37
