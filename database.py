@@ -8,3 +8,4 @@ row=cursor.execute("select * from fin_agg").fetchall()
 print(row)
 print(main.b)
 
+
