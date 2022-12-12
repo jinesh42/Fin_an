@@ -17,8 +17,8 @@ em['Subject'] = subject
 em['From'] = email_sender
 em['To'] = email_receiver
 em.set_content(body)
-with open('Expenses_by_year.pdf','rb') as fp:
-    em.add_attachment(fp.read(),maintype='application',subtype='pdf', filename='Expenses_by_year.pdf')    
+with open('D:/Fina/Expenses_by_year.pdf','rb') as fp:
+    em.add_attachment(fp.read(),maintype='application',subtype='pdf', filename='D:/Fina/Expenses_by_year.pdf')    
 context = ssl.create_default_context()
 
 with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
