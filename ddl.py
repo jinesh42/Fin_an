@@ -11,7 +11,7 @@ cursor = con.cursor()
                         Ex decimal(18,2)
 ); 
 """  '''
-create_table_daily_record=""" CREATE TABLE IF NOT EXISTS DAILY_LOGS (
+'''create_table_daily_record=""" CREATE TABLE IF NOT EXISTS DAILY_LOGS (
                           Day integer,
                           Month integer,
                           Year integer,
@@ -21,7 +21,7 @@ create_table_daily_record=""" CREATE TABLE IF NOT EXISTS DAILY_LOGS (
                         Primary key (Day,month,year)
                           
 );
-"""
+"""'''
 #cursor.execute("delete from daily_logs_temp")
 #cursor.execute(create_table_Fin_agg)
 #cursor.execute(create_table_daily_record)
